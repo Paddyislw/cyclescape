@@ -1,0 +1,10 @@
+{
+  "name": "cycle-runner",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static HTML — no build step needed'",
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  }
+}

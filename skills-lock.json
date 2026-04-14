@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "baseline-ui": {
+      "source": "ibelick/ui-skills",
+      "sourceType": "github",
+      "computedHash": "49817c981208de2f412719f7814d31eba2b2096462edc048a279d93f522cab0f"
+    },
+    "createos": {
+      "source": "NodeOps-app/skills",
+      "sourceType": "github",
+      "computedHash": "7fed6d8d559347652e635600b2129e34ee766bee226148e2c208cd04c9de012a"
+    },
+    "fixing-accessibility": {
+      "source": "ibelick/ui-skills",
+      "sourceType": "github",
+      "computedHash": "4fa8f5a772b4eef3d28a54c136b507d070e54e2c326578f65eaf5e5a0118b38a"
+    },
+    "fixing-metadata": {
+      "source": "ibelick/ui-skills",
+      "sourceType": "github",
+      "computedHash": "699e13890fb50acffa02dfd2d5b0e719bd916a9e2b7e6035bdc4513fc73d9174"
+    },
+    "fixing-motion-performance": {
+      "source": "ibelick/ui-skills",
+      "sourceType": "github",
+      "computedHash": "426dcf33f23419643f2aab71e2253e1a5b5684a808fabb8a4ad135e489ed7a0f"
+    },
+    "nodeops-auth": {
+      "source": "NodeOps-app/skills",
+      "sourceType": "github",
+      "computedHash": "7d852742a6ec29e42b853d3a3edab138ec8e508737897f465ac8b7b667f46eeb"
+    }
+  }
+}
